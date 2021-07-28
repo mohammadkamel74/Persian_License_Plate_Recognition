@@ -2,4 +2,4 @@
 
 
 ## Results of different steps of the algorithm
-<img  align="center" src="Steps/Demo.PNG" width="500" height="500">
+<img  align="center" src="img/Steps.PNG" width="500" height="500">
